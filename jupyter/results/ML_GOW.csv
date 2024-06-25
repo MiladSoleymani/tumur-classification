@@ -1,0 +1,6 @@
+Classifier,Accuracy
+SVM,66.66666666666667
+KNeighborsClassifier,69.44444444444444
+LogisticRegression,81.66666666666666
+DecisionTreeClassifier,58.05555555555556
+XGBoost,50.833333333333336
